@@ -1,0 +1,32 @@
+/* navigation */
+#nav{
+	font-size: 18px;
+	font-family: "Heiti TC";
+	background-color: rgb(60, 60, 60);
+
+	z-index: 1;
+	position: fixed;
+	width: 100vw;
+	height: 2.8em;
+	line-height: 2.8em;
+}
+
+.nav-brand{
+	color: rgb(240, 240, 240);
+	float: left;
+	display: inline-block;
+	margin-left: 2em;
+}
+
+.nav-link{
+	color: rgb(180, 180, 180);
+}
+
+.nav-list{
+	float: left;
+}
+
+.nav-item{
+	display: inline-block;
+	margin-right: 1em;
+}

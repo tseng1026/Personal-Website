@@ -1,0 +1,43 @@
+/* Header */
+#head{
+	background-image: url("../Image/Cover.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	position: relative;
+	top: 3.16em;
+	width: 100vw;
+	height: auto;
+	min-height: 30rem;
+}
+
+.head-word{
+	text-align: center;
+	position: relative;
+	top: 12em;
+}
+
+.head-name{
+	font-size: 60px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+}
+
+.head-butn{
+	font-size: 20px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+	background-color: transparent;
+	background-image: none;
+
+	display: inline-block;
+	border: 2px solid;
+	border-color: rgb(60, 60, 60);
+	border-radius: 0.6rem;
+	padding: 0.9rem 1.5rem 0.6rem 1.5rem;
+	margin-top: 2em;
+	vertical-align: middle;
+}
