@@ -1,0 +1,68 @@
+/* Login */
+
+#login{
+	font-size: 24px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+	text-align: center;
+
+	position: relative;
+	top: 3.16em;
+	width: 100vw;
+	height: calc(100vh - 4.5em);
+}
+
+.login-imge{
+	position: relative;
+	top: 12vh;
+	height: 8em;
+}
+
+.login-name{
+	position: relative;
+	top: 16vh;
+}
+
+.login-pswd{
+	position: relative;
+	top: 20vh;
+}
+
+.login-input{
+	font-size: 18px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	background-color: transparent;
+	background-image: none;
+
+	display: inline-block;
+	border: 1px solid;
+	border-color: rgb(200, 200, 200);
+	border-radius: 0.5rem;
+	padding: 0.7rem 1.2rem 0.4rem 1.2rem;
+	margin-top: 0.3em;
+	vertical-align: middle;
+	width: 12em;
+}
+
+.login-sign{
+	position: relative;
+	top: 23vh;
+}
+
+.login-butn{
+	font-size: 18px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(180, 180, 180);
+	background-color: rgb(60, 60, 60);
+	background-image: none;
+
+	border: 2px solid;
+	border-color: rgb(60, 60, 60);
+	border-radius: 0.5rem;
+	padding: 0.7rem 1.2rem 0.4rem 1.2rem;
+	vertical-align: middle;
+	width: 14.2em;
+}
