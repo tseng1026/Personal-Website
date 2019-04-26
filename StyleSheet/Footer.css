@@ -1,0 +1,25 @@
+/* Footer */
+
+#foot{
+	background-color: rgb(210, 210, 210);
+
+	z-index: 10;
+	position: relative;
+	top: 3.16em;
+	width: 100vw;
+	height: 3.6em;
+	line-height: 3.6em;
+}
+
+.foot-word{
+	font-size: 16px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+
+	text-align: center;
+}
+
+.foot-link{
+	color: rgb(100, 100, 100);
+}

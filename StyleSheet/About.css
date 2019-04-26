@@ -1,0 +1,46 @@
+/* About */
+#about{
+	background-color: rgb(240, 240, 240);
+
+	z-index:8;
+	position: relative;
+	top: 3.16em;
+	width: 100vw;
+	height: 100vh;
+}
+
+.about-word{
+	text-align: center;
+	position: relative;
+	top: 28vh;
+}
+
+.about-name{
+	font-size: 50px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+}
+
+.about-cont{
+	font-size: 20px;
+	font-family: "Heiti TC";
+	font-weight: 400;
+	color: rgb(60, 60, 60);
+
+	display: inline-block;
+	padding: 0.9rem 1.5rem 0.6rem 1.5rem;
+	margin-top: 0.8em;
+	vertical-align: middle;
+}
+
+.about-imge{
+	text-align: center;
+	position: relative;
+	top: 36vh;
+}
+
+.about-item{
+	width: 12em;
+	height: auto;
+}
